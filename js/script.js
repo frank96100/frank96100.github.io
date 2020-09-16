@@ -35,6 +35,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
  });
 
-import "https://cdn.jsdelivr.net/npm/marked/marked.min.js"
+import "https://frank96100.github.io/js/marked.min.js"
 
 renderReadme().catch(console.error)
